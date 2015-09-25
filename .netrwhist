@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jlaura/.vim/autoload'
+let g:netrw_dirhist_2='/Users/jlaura/github/krc_application/tmplvqf8v'
+let g:netrw_dirhist_3='/Users/jlaura/github/snowplow.wiki/technical-documentation/1a-trackers/dotnet-tracker'
+let g:netrw_dirhist_4='/Users/jlaura/github/variable_scalebar/scalebar/bar'
